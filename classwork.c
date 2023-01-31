@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {    
-/*1.You are given two float number print the addition and multiplication of two
+/*1.You are given two float number print the addition and multiplication of two 
 number.
 float a,b,c;
 scanf("%f",&a);
